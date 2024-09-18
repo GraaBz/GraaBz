@@ -1,5 +1,5 @@
 # Hello! it's me, Lauro #
-## Resumo sobre mim ##
+## Sobre mim ##
 Sou formado em Economia pela PUCPR, e atualmente analista de comércio exterior e em processo de migração de carreira para a área de dados, a qual me despertou grande fascínio e sinto que posso contribuir com insights e predições inteligentes para a empresa que eu for contratado.
 
 ## ferramentas e tecnologias ##
